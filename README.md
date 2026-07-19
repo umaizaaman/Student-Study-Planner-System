@@ -1,6 +1,6 @@
- 📚 Student Study Planner Management System
+ #📚 Student Study Planner Management System
 
-** Project Overview**
+## **Project Overview**
 
 Student Study Session Management System is a C++ based console application developed using Object-Oriented Programming (OOP) concepts.
 
@@ -101,7 +101,7 @@ The system allows:
 
 ---
 
-⚠️** Exception Handling**
+⚠️**Exception Handling**
 
 Exception handling is used to manage runtime errors and provide a better user experience.
 
@@ -112,7 +112,7 @@ Examples:
 
 ---
 
- 📂** Project Structure**
+ 📂**Project Structure**
 
 ```
 Student-Study-Session/
