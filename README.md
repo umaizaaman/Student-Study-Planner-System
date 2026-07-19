@@ -1,4 +1,4 @@
- #📚 Student Study Planner Management System
+ # 📚 Student Study Planner Management System
 
 ## **Project Overview**
 
